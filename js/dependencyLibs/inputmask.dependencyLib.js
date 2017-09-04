@@ -75,18 +75,7 @@
     }
 
     function DependencyLib(elem) {
-        if (elem instanceof DependencyLib) {
-            return elem;
-        }
-        if (!(this instanceof DependencyLib)) {
-            return new DependencyLib(elem);
-        }
-        if (elem !== undefined && elem !== null && elem !== window) {
-            this[0] = elem.nodeName ? elem : (elem[0] !== undefined && elem[0].nodeName ? elem[0] : document.querySelector(elem));
-            if (this[0] !== undefined && this[0] !== null) {
-                this[0].eventRegistry = this[0].eventRegistry || {};
-            }
-        }
+        return undefined;
     }
 
     function getWindow(elem) {
