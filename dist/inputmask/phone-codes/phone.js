@@ -783,7 +783,63 @@
                 name_ru: "\u0413\u0430\u0438\u0442\u0438",
                 desc_ru: ""
             }, {
-                mask: "+36(###)###-###",
+                mask: "+36(1)###-####",
+                cc: "HU",
+                cd: "Hungary",
+                desc_en: "",
+                name_ru: "\u0412\u0435\u043d\u0433\u0440\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+36(2#)###-###[#]",
+                cc: "HU",
+                cd: "Hungary",
+                desc_en: "",
+                name_ru: "\u0412\u0435\u043d\u0433\u0440\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+36(3#)###-###[#]",
+                cc: "HU",
+                cd: "Hungary",
+                desc_en: "",
+                name_ru: "\u0412\u0435\u043d\u0433\u0440\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+36(4#)###-###[#]",
+                cc: "HU",
+                cd: "Hungary",
+                desc_en: "",
+                name_ru: "\u0412\u0435\u043d\u0433\u0440\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+36(5#)###-###[#]",
+                cc: "HU",
+                cd: "Hungary",
+                desc_en: "",
+                name_ru: "\u0412\u0435\u043d\u0433\u0440\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+36(6#)###-###[#]",
+                cc: "HU",
+                cd: "Hungary",
+                desc_en: "",
+                name_ru: "\u0412\u0435\u043d\u0433\u0440\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+36(7#)###-###[#]",
+                cc: "HU",
+                cd: "Hungary",
+                desc_en: "",
+                name_ru: "\u0412\u0435\u043d\u0433\u0440\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+36(8#)###-###[#]",
+                cc: "HU",
+                cd: "Hungary",
+                desc_en: "",
+                name_ru: "\u0412\u0435\u043d\u0433\u0440\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+36(9#)###-###[#]",
                 cc: "HU",
                 cd: "Hungary",
                 desc_en: "",
@@ -1595,7 +1651,77 @@
                 name_ru: "\u0420\u0435\u044e\u043d\u044c\u043e\u043d",
                 desc_ru: ""
             }, {
-                mask: "+40-##-###-####",
+                mask: "+40-21-###-####",
+                cc: "RO",
+                cd: "Romania",
+                desc_en: "",
+                name_ru: "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+40-22#-###-###",
+                cc: "RO",
+                cd: "Romania",
+                desc_en: "",
+                name_ru: "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+40-23#-###-###",
+                cc: "RO",
+                cd: "Romania",
+                desc_en: "",
+                name_ru: "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+40-24#-###-###",
+                cc: "RO",
+                cd: "Romania",
+                desc_en: "",
+                name_ru: "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+40-25#-###-###",
+                cc: "RO",
+                cd: "Romania",
+                desc_en: "",
+                name_ru: "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+40-26#-###-###",
+                cc: "RO",
+                cd: "Romania",
+                desc_en: "",
+                name_ru: "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+40-27#-###-###",
+                cc: "RO",
+                cd: "Romania",
+                desc_en: "",
+                name_ru: "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+40-28#-###-###",
+                cc: "RO",
+                cd: "Romania",
+                desc_en: "",
+                name_ru: "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+40-29#-###-###",
+                cc: "RO",
+                cd: "Romania",
+                desc_en: "",
+                name_ru: "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+40-3##-###-###",
+                cc: "RO",
+                cd: "Romania",
+                desc_en: "",
+                name_ru: "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+                desc_ru: ""
+            }, {
+                mask: "+40-7##-###-###",
                 cc: "RO",
                 cd: "Romania",
                 desc_en: "",
